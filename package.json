@@ -1,0 +1,21 @@
+{
+    "name": "LambdaTest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "LambdaTest.js",
+    "dependencies": {
+	"async": "^1.5.2",
+	"aws-sdk": "^2.2.39",
+	"dotenv": "^2.0.0",
+	"child_process": "latest"
+    },
+    "devDependencies": {
+	"node-aws-lambda": "^0.1.7"
+    },
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "h-nimrod",
+    "license": "Apache2"
+}
