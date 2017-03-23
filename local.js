@@ -1,4 +1,4 @@
-require('dotenv').config();
+//require('dotenv').config();
 
 //YOUR DATA TO BE PASSED TO LAMBDA FUNCTION.
 var event = require('./event.json');  
